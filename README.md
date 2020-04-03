@@ -1,1 +1,1 @@
-# P-LAB
+# PROGRAMLAMA-LAB.
